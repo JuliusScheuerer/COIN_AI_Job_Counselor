@@ -1,0 +1,11 @@
+# Ignore virtual environments
+**/venv/
+
+# Ignore Python cache files
+**/__pycache__/
+*.pyc
+
+# Ignore any local configuration files
+*.env
+
+# Add any other files or directories you want to ignore
