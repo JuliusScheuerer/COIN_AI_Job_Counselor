@@ -9,3 +9,4 @@
 *.env
 
 # Add any other files or directories you want to ignore
+fastapi_app/model/
