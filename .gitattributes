@@ -1,0 +1,1 @@
+fastapi_app/model/distilbert-finetuned-four-v4/model.safetensors filter=lfs diff=lfs merge=lfs -text
